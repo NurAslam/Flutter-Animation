@@ -1,6 +1,9 @@
-# fasttrack_kuldi
+# latihan Animation
 
-A new Flutter project.
+ini adalah latihan animation
+1. Animated Container
+2. Lottie Animation
+3. Hero Animation
 
 ## Getting Started
 
